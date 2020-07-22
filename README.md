@@ -4,3 +4,5 @@
 <p>This project is implementation of HTML, CSS and JavaScript<p>
 <p>which basically includes a fully responsive template of navbar / hamburger menu</p>
 <p>and cards of a basic but attractive website.</p>
+<h5> some screenshots of this project</h5>
+<img src="">
