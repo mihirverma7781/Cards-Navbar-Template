@@ -14,3 +14,6 @@
 <img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss5.png" height="300px",width ="300px">
 <img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss6.png" height="300px",width ="300px">
 <img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss7.png" height="300px",width ="300px">
+
+<p>all screenshots are of diffrent resolutions of screen</p>
+<p>you can use for this template as an referance for your projects</p> 
