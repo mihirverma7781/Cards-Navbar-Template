@@ -5,4 +5,13 @@
 <p>which basically includes a fully responsive template of navbar / hamburger menu</p>
 <p>and cards of a basic but attractive website.</p>
 <h5> some screenshots of this project</h5>
-<img src="">
+
+<img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/iphonex.png">
+<img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss.png">
+<img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss1.png">
+<img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss2.png">
+<img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss3.png">
+<img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss4.png">
+<img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss5.png">
+<img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss6.png">
+<img src="https://github.com/mihirverma7781/Cards-Navbar-Template/blob/master/css%20template/ss7.png">
