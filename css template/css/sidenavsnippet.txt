@@ -1,0 +1,49 @@
+/* .sidenav {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 160px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 25; /* Stay at the top */
+    left: 1;
+    background-color: rgb(230, 230, 230); /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    background: linear-gradient(to bottom, #ececec 50%, #ffffff 100%);
+    box-shadow: 2px 2px 5px rgb(219, 219, 219);
+    /* border: 2px solid black; */
+  }
+  .sidenav h2{
+    padding: 6px 8px 6px 16px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    cursor: context-menu;
+  }
+  
+  /* The navigation menu links */
+  .sidenav a {
+    font-family: 'Playball', cursive;
+    padding: 36px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .sidenav a:hover {
+    
+        transition: two;
+        transition-property: all;
+        transition-duration: .7s;
+        transition-delay: 0s;
+        color: #535fff;
+        transition-timing-function: ease-in-out;
+        /* transition: ease-in-out; */
+        transform: scale(1.1);
+  }
+   */
